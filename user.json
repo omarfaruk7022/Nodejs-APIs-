@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "gender": "Male",
+    "name": "John Doe",
+    "contact": "1234567890",
+    "address": "123, ABC Street, XYZ City",
+    "photoUrl": "https://images.unsplash.com/photo-1684287038326-3700007a3072?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=688&q=80"
+  },
+  {
+    "id": 2,
+    "gender": "Male",
+    "name": "John",
+    "contact": "1234567890",
+    "address": "123, ABC Street, XYZ City",
+    "photoUrl": "https://images.unsplash.com/photo-1684287038326-3700007a3072?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=688&q=80"
+  },
+  {
+    "id": 3,
+    "gender": "Female",
+    "name": "jorina",
+    "contact": "1234567890",
+    "address": "123, ABC Street, XYZ City",
+    "photoUrl": "https://images.unsplash.com/photo-1684287038326-3700007a3072?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=688&q=80"
+  },
+  {
+    "id": 4,
+    "gender": "Male",
+    "name": "Ahmad",
+    "contact": "1234567890",
+    "address": "123, ABC Street, XYZ City",
+    "photoUrl": "https://images.unsplash.com/photo-1684287038326-3700007a3072?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=688&q=80"
+  }
+]
